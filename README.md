@@ -2,9 +2,9 @@
 Python auto clicker
 
 # Requirements
-PyAutoGUI
-pynput
+- PyAutoGUI
+- pynput
 
 # Install
-pip install PyAutoGUI
-pip install pynput
+- pip install PyAutoGUI
+- pip install pynput
