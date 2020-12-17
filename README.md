@@ -1,10 +1,10 @@
-# pythonautoclicker
+# Pythonautoclicker
 Python auto clicker
 
-# requirements
+# Requirements
 PyAutoGUI
 pynput
 
-# installs
+# Install
 pip install PyAutoGUI
 pip install pynput
